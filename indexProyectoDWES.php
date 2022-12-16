@@ -14,7 +14,14 @@
         </div>
         <div class="container">
             <ul>
-                <li><a href="doc/EstudioTema1.pdf" target="_blank">TEMA 1: DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
+                <li>
+                    <a href="doc/EstudioTema1.pdf" target="_blank">TEMA 1: DESARROLLO WEB EN ENTORNO SERVIDOR</a>
+                    <ul style="margin-top: 10px">
+                        <a href="doc/Wordpress-ManuelMartínAlonso-Presentación.pdf" target="_blank">Trabajo Personal Presentación</a>
+                        <br>
+                        <a href="doc/WordPress-ManuelMartínAlonso-Word.pdf" target="_blank">Trabajo Personal Word</a>
+                    </ul>
+                </li>
                 <li><a href="doc/EstudioTema2.pdf" target="_blank">TEMA 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y EXPLOTACIÓN</a></li>
                 <li><a href="../204DWESProyectoTema3/indexProyectoTema3.php">TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP</a></li>
                 <li><a href="../204DWESProyectoTema4/indexProyectoTema4.php">TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP</a></li>
